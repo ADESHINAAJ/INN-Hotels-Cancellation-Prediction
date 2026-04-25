@@ -64,4 +64,4 @@ Built a classification model pipeline that predicts booking cancellations with a
 
 ## Executive Summary
 
-> "I built a decision tree classifier that predicts hotel booking cancellations with 69% F1 score for a Portuguese hotel chain. By identifying lead time and special requests as the primary cancellation drivers, we helped the business implement targeted retention strategies—customers who make special requests are 77% less likely to cancel—and developed simple, interpretable decision rules that operations teams can use to flag high-risk bookings and intervene before revenue is lost."
+> I built a decision tree classifier that predicts hotel booking cancellations with 69% F1 score for a Portuguese hotel chain. By identifying lead time and special requests as the primary cancellation drivers, we helped the business implement targeted retention strategies—customers who make special requests are 77% less likely to cancel—and developed simple, interpretable decision rules that operations teams can use to flag high-risk bookings and intervene before revenue is lost.
